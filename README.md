@@ -1,174 +1,57 @@
 <div align="center">
 
-  <!-- Clean Waving Header Banner (No Clipped Subtitle) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200§ion=header&text=Muhammad%20Zain%20Ul%20Hassan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Header Banner" />
-
-  <!-- Crisp Subtitle & Specialty Pills (100% Reliable, Never Breaks) -->
-  <h2>Full-Stack Software Developer & Enterprise Application Architect</h2>
-  <p>
-    <b>Building Scalable Multi-Module ERP Systems • High-Converting B2B SaaS Platforms • Applied AI & NLP</b>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Architecture-Enterprise_ERP-0f172a?style=flat-square&logo=databricks&logoColor=38bdf8" alt="Enterprise ERP" /> 
-    <img src="https://img.shields.io/badge/Frontend-Angular_%26_TypeScript-0f172a?style=flat-square&logo=angular&logoColor=dd0031" alt="Angular" /> 
-    <img src="https://img.shields.io/badge/Backend-Node.js_%26_MySQL-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" /> 
-    <img src="https://img.shields.io/badge/Research-MS_Software_Engineering-0f172a?style=flat-square&logo=googlescholar&logoColor=60a5fa" alt="MS-SE" />
-  </p>
-
-  <br/>
-
-  <!-- Action & Social Buttons (With Your Live Portfolio & LinkedIn) -->
-  <p align="center">
-    <a href="https://mzainulhassan-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>  
-    <a href="https://www.linkedin.com/in/zain-gondal/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>  
-    <a href="https://github.com/GondalZain?tab=followers"><img src="https://img.shields.io/github/followers/GondalZain?label=FOLLOW&style=for-the-badge&logo=github&color=181717" alt="Followers" /></a>
-  </p>
-
-</div>
-
-<hr/>
-
-### ⚡ Developer Profile & Architecture Focus
-
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
+  <!-- HEADER BANNER & NAVIGATION BAR (LOCKED TOGETHER, ZERO GAPS) -->
   <tr>
-    <td width="55%" valign="top">
+    <td colspan="2" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:090d16,50:0f172a,100:1e3a8a&height=155§ion=header&text=Muhammad%20Zain%20Ul%20Hassan&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Software%20Developer%20%E2%80%A2%20Enterprise%20ERP%20%E2%80%A2%20B2B%20SaaS%20Architect&descSize=15&descAlignY=68&animation=fadeIn" width="100%" alt="Header Card" />
+      <p align="center">
+        <a href="https://mzainulhassan-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-mzainulhassan.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" alt="Portfolio" /></a> 
+        <a href="https://www.linkedin.com/in/zain-gondal/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-zain--gondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" /></a> 
+        <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email" /></a> 
+        <a href="https://github.com/GondalZain?tab=followers"><img src="https://img.shields.io/github/followers/GondalZain?label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=0f172a&color=334155" alt="Followers" /></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 1: SYSTEM PROFILE (LEFT) & UNIFIED DARK TECH STACK (RIGHT) -->
+  <tr>
+    <td width="52%" valign="top">
+      <h3>⚡ Engineering Profile</h3>
       <ul>
-        <li>🎓 <b>Academic & Research Track:</b> Pursuing an <b>MS in Software Engineering</b> at Air University, researching AI-assisted programming and machine learning severity classification.</li>
-        <li>🏢 <b>Enterprise Engineering:</b> Designing and building multi-module <b>ERP systems</b>, inventory/ledger engines, and high-converting <b>B2B SaaS platforms</b>.</li>
-        <li>⚙️ <b>Full-Stack Craftsmanship:</b> Specializing in modular <b>Angular (TypeScript/SCSS)</b> frontends paired with high-performance <b>Node.js & MySQL</b> backends.</li>
-        <li>📍 <b>Location:</b> Islamabad, Pakistan</li>
+        <li><b>Enterprise Architecture:</b> Building multi-module <b>ERP systems</b> (inventory, procurement, sales, branch & role-based ledgers).</li>
+        <li><b>B2B SaaS Workflows:</b> Designing high-converting team task management platforms in <b>Angular & Node.js</b>.</li>
+        <li><b>Graduate Research:</b> <b>MS in Software Engineering</b> at Air University, focusing on AI-assisted code quality & PyTorch NLP models.</li>
+        <li><b>Base:</b> Islamabad, Pakistan</li>
       </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ERP_Systems-38bdf8?style=flat-square&label=Focus&labelColor=0f172a" />
+        <img src="https://img.shields.io/badge/Full_Stack_Web-6366f1?style=flat-square&label=Domain&labelColor=0f172a" />
+        <img src="https://img.shields.io/badge/Open_to_Collaborate-10b981?style=flat-square&label=Status&labelColor=0f172a" />
+      </p>
     </td>
-    <td width="45%" valign="top">
-<pre>
-<b>const developer = {</b>
-  name: "Muhammad Zain Ul Hassan",
-  role: "Full-Stack Software Engineer",
-  education: "MS Software Engineering",
-  stack: ["Angular", "TypeScript", "Node.js", "MySQL"],
-  domains: [
-    "Enterprise ERP Architecture",
-    "B2B Workflow Platforms",
-    "Applied NLP & PyTorch"
-  ],
-  availableForCollaboration: true
-<b>};</b>
-</pre>
+    <td width="48%" valign="top" align="center">
+      <h3 align="left">🛠️ Synchronized Tech Stack</h3>
+      <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,nodejs,express,mysql,postgres,mongodb,cpp,py,pytorch,git,github,vscode,postman&perline=6&theme=dark" width="96%" alt="Tech Stack Grid" />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Frontend-Angular_%7C_TS_%7C_SCSS-2563eb?style=flat-square&labelColor=0f172a" />
+        <img src="https://img.shields.io/badge/Backend-Node.js_%7C_MySQL-2563eb?style=flat-square&labelColor=0f172a" />
+      </p>
     </td>
   </tr>
-</table>
 
-<hr/>
-
-### 🛠️ Technical Arsenal & Engineering Stack
-
-<div align="center">
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="33%" align="center">🎨 Frontend Engineering</th>
-      <th width="33%" align="center">⚙️ Backend & Databases</th>
-      <th width="34%" align="center">🧠 AI / ML & DevOps Tooling</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass&perline=3" alt="Frontend Icons" />
-        <br/><br/>
-        <code>Angular</code> <code>TypeScript</code> <code>SCSS</code>
-      </td>
-      <td align="center">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,cpp&perline=3" alt="Backend Icons" />
-        <br/><br/>
-        <code>Node.js</code> <code>REST APIs</code> <code>MySQL</code>
-      </td>
-      <td align="center">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=py,pytorch,git,github,vscode,postman&perline=3" alt="Tooling Icons" />
-        <br/><br/>
-        <code>PyTorch</code> <code>Git</code> <code>VS Code</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
-<hr/>
-
-### 🚀 Flagship Projects & Featured Systems
-
-<table width="100%">
+  <!-- ROW 2: FLAGSHIP PROJECTS BENTO GRID (2x2 COMPACT CARDS) -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 Multi-Module Enterprise ERP</h3>
-      <p>End-to-end enterprise resource planning suite engineered for multi-branch retail and corporate operations. Features real-time inventory control, purchase and sales pipelines, employee management, and role-based financial ledgers.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <h4>🏢 Multi-Module Enterprise ERP Suite</h4>
+      <p>Full-scale business management system featuring real-time inventory control, purchase/sales pipelines, multi-branch operations, employee management, and role-based financial ledgers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white&labelColor=0f172a" />
+        <img src="https://img.shields.io/badge/TypeScript-2563eb?style=flat-square&logo=typescript&logoColor=white&labelColor=0f172a" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0f172a" />
+        <img src="https://img.shields.io/badge/MySQL-38bdf8?style=flat-square&logo=mysql&logoColor=white&labelColor=0f172a" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📋 <a href="https://github.com/GondalZain/Task-Manager">B2B Task-Manager Platform</a></h3>
-      <p>Scalable team task-tracking and collaborative workflow application featuring high-converting company registration flows, role-based access control, and interactive project status dashboards.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌾 <a href="https://github.com/GondalZain/AgriTrade">AgriTrade Marketplace</a></h3>
-      <p>Digital agricultural trading platform connecting producers and buyers through real-time commodity listings, transparent pricing workflows, and order management.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 <a href="https://github.com/GondalZain/parkingsystem">Smart Parking System</a></h3>
-      <p>Automated vehicle slot allocation, entry/exit logging, and billing management system designed to streamline high-volume parking operations.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Web_Architecture-2563EB?style=flat-square" />
-        <img src="https://img.shields.io/badge/System_Logic-10B981?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-### 📊 GitHub Activity & Engineering Metrics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GondalZain&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GondalZain&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-    
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GondalZain&theme=tokyonight" height="170" alt="Most Commit Language" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=110§ion=footer" width="100%" alt="Footer Banner" />
-</div>
+      <h4>📋 <a href="https://github.com/GondalZain/Task-Manager">B2B Task-Manager Platform</a></h4>
+      <p>Enterprise team workflow application engineered with
