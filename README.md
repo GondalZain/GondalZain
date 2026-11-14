@@ -1,16 +1,24 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner (XML-Safe) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=230§ion=header&text=Muhammad%20Zain%20Ul%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Developer%20%7C%20Enterprise%20ERP%20%7C%20Web%20Architect&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <!-- Clean Waving Header Banner (No Clipped Subtitle) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200§ion=header&text=Muhammad%20Zain%20Ul%20Hassan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing Subtitle (XML-Safe) -->
-  <a href="https://mzainulhassan-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB¢er=true&vCenter=true&width=820&lines=Building+Scalable+Full-Stack+Web+Applications+and+ERP+Systems;Architecting+High-Converting+B2B+Platforms+in+Angular+and+Node.js;MS+Software+Engineering+Researcher+and+Full-Stack+Builder;Clean+Architecture+%7C+RESTful+APIs+%7C+Relational+Databases+%7C+AI+and+ML" alt="Typing SVG" />
-  </a>
+  <!-- Crisp Subtitle & Specialty Pills (100% Reliable, Never Breaks) -->
+  <h2>Full-Stack Software Developer & Enterprise Application Architect</h2>
+  <p>
+    <b>Building Scalable Multi-Module ERP Systems • High-Converting B2B SaaS Platforms • Applied AI & NLP</b>
+  </p>
 
-  <br/><br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Architecture-Enterprise_ERP-0f172a?style=flat-square&logo=databricks&logoColor=38bdf8" alt="Enterprise ERP" /> 
+    <img src="https://img.shields.io/badge/Frontend-Angular_%26_TypeScript-0f172a?style=flat-square&logo=angular&logoColor=dd0031" alt="Angular" /> 
+    <img src="https://img.shields.io/badge/Backend-Node.js_%26_MySQL-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" /> 
+    <img src="https://img.shields.io/badge/Research-MS_Software_Engineering-0f172a?style=flat-square&logo=googlescholar&logoColor=60a5fa" alt="MS-SE" />
+  </p>
 
-  <!-- Clean Social & Portfolio Buttons (No Underline Gaps) -->
+  <br/>
+
+  <!-- Action & Social Buttons (With Your Live Portfolio & LinkedIn) -->
   <p align="center">
     <a href="https://mzainulhassan-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>  
     <a href="https://www.linkedin.com/in/zain-gondal/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
